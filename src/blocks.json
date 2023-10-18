@@ -1,0 +1,45 @@
+[
+  {
+    "heading": "Content"
+  },
+  {
+    "name": "h1",
+    "type": "h1",
+    "innerHtml": "Random titel"
+  },
+  {
+    "name": "Paragraph",
+    "type": "p",
+    "innerHtml": "Random tekst"
+  },
+  {
+    "name": "Link",
+    "type": "a",
+    "href": "https://cherry-marketing.nl",
+    "innerHtml": "Link",
+    "target": "_blank"
+  },
+  {
+    "name": "Img",
+    "type": "img",
+    "src": "https://zorgmetelkaar.nl/wp-content/uploads/2020/10/1280px-Test-Logo.svg.png"
+  },
+  {
+    "name": "Container",
+    "type": "div",
+    "classList": "container"
+  },
+  {
+    "heading": "Layout"
+  },
+  {
+    "name": "Row",
+    "type": "div",
+    "classList": "row"
+  },
+  {
+    "name": "Column",
+    "type": "div",
+    "classList": "col"
+  }
+]
